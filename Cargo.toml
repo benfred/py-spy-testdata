@@ -1,0 +1,11 @@
+[package]
+name = "py-spy-testdata"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ben Frederickson <github@benfrederickson.com>"]
+repository = "https://github.com/benfred/py-spy-testdata"
+homepage = "https://github.com/benfred/py-spy-testdata"
+description = "Python coredumps for testing py-spy"
+readme = "README.md"
+
+[dependencies]
