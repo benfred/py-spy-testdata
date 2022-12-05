@@ -7,5 +7,6 @@ repository = "https://github.com/benfred/py-spy-testdata"
 homepage = "https://github.com/benfred/py-spy-testdata"
 description = "Python coredumps for testing py-spy"
 readme = "README.md"
+license = "MIT"
 
 [dependencies]
